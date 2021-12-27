@@ -7,7 +7,9 @@
 }
 
 h1,
-p {
+p,
+a,
+h4 {
 	color: white;
 }
 
