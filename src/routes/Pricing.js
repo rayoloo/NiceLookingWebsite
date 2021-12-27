@@ -7,7 +7,7 @@ const Pricing = () => {
 	return (
 		<div>
 			<Navbar />
-			<HeroImage heading='Pricing' text='Choose your Trip' />
+			<HeroImage heading='Pricing' text='Choose your accommodation ' />
 			<PriceCard />
 			<Footer />
 		</div>
